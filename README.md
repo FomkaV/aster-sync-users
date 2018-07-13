@@ -13,5 +13,5 @@ You will need a table with users parameters, in coloums:
    * my-localusers.conf - with dialplans for internal short numbers, it must be included in extention.conf using: "#include /etc/asterisk/my-mylocalusers.conf" , "include > [LocalUsers]"
    
 ## Run scrip
-Do - chmod +x 
+Do - chmod +x.
 Manualy or use cron  to sync it once in 10 minutes for example.
