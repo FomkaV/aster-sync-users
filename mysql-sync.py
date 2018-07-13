@@ -12,7 +12,7 @@ config = {
   'raise_on_warnings': True
 }
 
-## DB Coloums
+## DB Coloums in table OUTGOING
 # sip_id
 # depName
 # Sip_Pass
